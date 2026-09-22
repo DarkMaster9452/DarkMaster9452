@@ -1,25 +1,34 @@
-# Hi, I'm Martin 👋
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Martin Straňanek — freelance web developer from Rajec, Slovakia"/>
+</p>
 
-Freelance web developer from **Rajec, Slovakia**. I build websites and web apps for local clubs and small businesses — and run my own SaaS for auto repair shops.
+<p align="center">
+  <a href="https://strananekm.com"><img src="https://img.shields.io/badge/strananekm.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Website"/></a>
+  <a href="mailto:strananekm@gmail.com"><img src="https://img.shields.io/badge/strananekm@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=3b82f6" alt="Email"/></a>
+  <a href="https://gridservis.app"><img src="https://img.shields.io/badge/gridservis.app-0d1117?style=for-the-badge&logo=wrench&logoColor=a78bfa" alt="GridServis"/></a>
+</p>
 
-🌐 [strananekm.com](https://strananekm.com) · ✉️ strananekm@gmail.com
+<br/>
 
-## What I'm working on
+I build websites and web apps for local clubs and small businesses in Slovakia — and run **GridServis**, my own software for auto repair shops, from code to payments to customer support.
 
-- **[GridServis](https://gridservis.app)** — desktop app + licensing/payments backend for managing auto repair shops (paying customers, built solo)
-- **Client websites** — sports clubs, restaurants and local businesses in the Rajecká dolina region
+<br/>
 
-## Selected work
+## ✦ Things I've built
 
-| Project | What it is | Stack |
-|---|---|---|
-| [GridServis](https://github.com/DarkMaster9452/GridServis.app) | SaaS for auto repair shops — website, Stripe payments, Ed25519 licences | PyQt6 · Vercel · Neon · Stripe |
-| [Pyro Pizzeria](https://github.com/DarkMaster9452/Pyro-pizzeria) | Online ordering for two pizzerias + kitchen admin panel | Next.js · React · Neon |
-| [OŠK Kamenná Poruba](https://github.com/DarkMaster9452/OSK-Kamenna-Poruba-Web) | Football club website — [oskkp.sk](https://oskkp.sk) | HTML · CSS · JS |
-| [Summit Quest](https://github.com/DarkMaster9452/Travel-Notes) | Generator of personalised, never-repeating hiking quests | Next.js · Prisma · Neon |
-| [MaturitaKB](https://github.com/DarkMaster9452/maturitna-kb) | Study platform for the Slovak school-leaving exam | Next.js · Neon |
+<p align="center">
+  <a href="https://gridservis.app"><img src="assets/card-gridservis.svg" width="49%" alt="GridServis"/></a>
+  <a href="https://github.com/DarkMaster9452/Pyro-pizzeria"><img src="assets/card-pyro.svg" width="49%" alt="Pyro Pizzeria"/></a>
+  <a href="https://oskkp.sk"><img src="assets/card-oskkp.svg" width="49%" alt="OŠK Kamenná Poruba"/></a>
+  <a href="https://github.com/DarkMaster9452/Travel-Notes"><img src="assets/card-summit.svg" width="49%" alt="Summit Quest"/></a>
+</p>
 
-## Stack
+## ✦ Tools I reach for
 
-**Daily:** TypeScript · Next.js · React · Tailwind CSS · PostgreSQL (Neon) · Vercel  
-**Also:** Python (PyQt6) · PHP · React Native / Expo · ESP32 / ESPHome · Arduino
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="TypeScript, Next.js, React, Tailwind CSS, PostgreSQL (Neon), Vercel, Stripe, Python, PHP, React Native, ESP32, Arduino"/>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt=""/>
+</p>
