@@ -6,7 +6,7 @@ I'm a freelance developer from Rajec, Slovakia. I build custom websites and syst
 
 <br/>
 
-<img src="assets/stack.svg" width="100%" alt="Stack: TypeScript, JavaScript, Python, PHP, React, Next.js, Astro, Tailwind CSS, Framer Motion, Node.js, Express, NextAuth.js, Stripe, PostgreSQL, Neon, Prisma, Git, Vercel, Figma, ESP32 / Arduino"/>
+<img src="assets/stack.svg" width="100%" alt="Stack: TypeScript, JavaScript, Python, PHP, React, Next.js, Tailwind CSS, Framer Motion, Node.js, Express, NextAuth.js, Stripe, PostgreSQL, Neon, Prisma, Git, Vercel, Figma, ESP32"/>
 
 <br/>
 
